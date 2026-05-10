@@ -32,9 +32,3 @@ It walks through a standard data cleaning and exploration workflow in 7 steps:
 | `final_price` | Price after discount |
 | `rating` | Customer rating (out of 5) |
 | `ratings_count` | Number of reviews |
-
----
-
-## Takeaway
-
-This is a solid, well-structured data prep notebook — good for anyone learning Pandas or wanting a clean starting point before doing deeper analysis or visualization on a retail/e-commerce dataset.
