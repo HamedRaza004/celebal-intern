@@ -66,8 +66,8 @@ Aarav Sharma is the top spender with 2 delivered orders.
 
 **Delivered vs Not Delivered**
 
-- ✅ Delivered: **6 orders**
-- ⏳ Not Delivered (Shipped/Pending/Cancelled): **4 orders**
+- Delivered: **6 orders**
+- Not Delivered (Shipped/Pending/Cancelled): **4 orders**
 
 ---
 
