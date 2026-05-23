@@ -1,4 +1,4 @@
-# 🛍️ Shopping Analysis — Quick Summary
+# Shopping Analysis — Quick Summary
 
 **Dataset:** Myntra Shopping Dataset (from Kaggle)  
 **Tool:** Python + Pandas  
