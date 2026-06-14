@@ -1,16 +1,6 @@
-# ================================================================
-#  Spark Architecture & Data Processing — CEI Week Task
-#  PySpark Script covering Q1–Q15 + Full Pipeline
-#  Dataset: orders.csv (300 rows) + source.csv (100 rows)
-# ================================================================
-
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
 from pyspark.sql.types import DoubleType, IntegerType, StringType
-
-# ── Start Spark Session ─────────────────────────────────────────
-# In a real cluster, this connects to the Cluster Manager.
-# locally, master("local[*]") uses all CPU cores as executors.
 
 spark = SparkSession.builder \
     .appName("SparkArchitectureTask") \
@@ -281,8 +271,6 @@ print("  Saved to data/output_cleaned/ successfully")
 # ================================================================
 # Q13 — Client Mode vs Cluster Mode
 # ================================================================
-# (Theory)
-#
 # CLIENT MODE:
 #   The Driver runs on the machine that submitted the job
 #   (usually your laptop or edge node — outside the cluster).
@@ -318,8 +306,6 @@ df_orders.filter(
 # ================================================================
 # Q15 — show(5) vs collect() — why show() is safer
 # ================================================================
-# (Theory + demo)
-#
 # .collect():
 #   Pulls EVERY row from every executor into the Driver's memory.
 #   On a 2TB dataset: that's 2TB into your driver RAM → crash.
