@@ -1,0 +1,101 @@
+product_id,product_name,category,price,stock,region
+P101,Chair,Furniture,3350.32,363,East
+P102,T-Shirt,Clothing,197.88,107,South
+P103,Python Guide,Books,2894.87,185,West
+P104,Shelf,Furniture,5457.19,443,Central
+P105,Kurta,Clothing,4621.04,117,Central
+P106,Bed,Furniture,6118.3,397,East
+P107,Tea,Grocery,7820.21,232,Central
+P108,Sofa,Furniture,4210.41,481,East
+P109,Jacket,Clothing,121.87,243,North
+P110,Oil,Grocery,1247.22,321,South
+P111,Cricket Bat,Sports,7498.76,319,South
+P112,Laptop,Electronics,4369.01,104,Central
+P113,Jacket,Clothing,7520.99,187,South
+P114,Jeans,Clothing,4251.56,179,South
+P115,Dumbbells,Sports,1744.43,467,East
+P116,Dumbbells,Sports,1736.14,404,North
+P117,Laptop,Electronics,570.24,330,West
+P118,Oil,Grocery,526.88,288,West
+P119,Dumbbells,Sports,7562.36,321,South
+P120,Headphones,Electronics,215.08,363,West
+P121,Jeans,Clothing,2866.72,166,West
+P122,Oil,Grocery,2422.76,255,South
+P123,ML Handbook,Books,3845.1,478,East
+P124,Jacket,Clothing,2296.4,169,North
+P125,Football,Sports,1334.7,349,Central
+P126,SQL Mastery,Books,1735.94,26,South
+P127,Oil,Grocery,417.2,396,West
+P128,Shoes,Clothing,6918.54,479,East
+P129,Rice,Grocery,6449.91,77,North
+P130,Jacket,Clothing,1248.88,376,East
+P131,Smartphone,Electronics,3742.61,203,North
+P132,Yoga Mat,Sports,5155.19,340,West
+P133,Chair,Furniture,4702.93,103,North
+P134,Smartphone,Electronics,4063.01,118,Central
+P135,Cricket Bat,Sports,5841.61,24,East
+P136,Laptop,Electronics,1007.69,249,South
+P137,SQL Mastery,Books,70.44,114,Central
+P138,Kurta,Clothing,4030.79,57,Central
+P139,Bed,Furniture,7660.05,39,East
+P140,Jeans,Clothing,5864.62,139,South
+P141,Headphones,Electronics,2188.58,494,North
+P142,Kurta,Clothing,430.46,404,Central
+P143,Sofa,Furniture,134.19,352,North
+P144,Sugar,Grocery,4374.56,280,East
+P145,Sugar,Grocery,7859.77,447,East
+P146,Dumbbells,Sports,2580.21,214,West
+P147,Shoes,Clothing,6099.62,451,West
+P148,T-Shirt,Clothing,1950.78,256,East
+P149,Tea,Grocery,5853.48,123,South
+P150,Rice,Grocery,740.16,317,North
+P151,Rice,Grocery,3276.26,285,East
+P152,Sugar,Grocery,4414.14,161,West
+P153,Python Guide,Books,3814.09,331,West
+P154,Data Science,Books,4758.74,194,South
+P155,Sugar,Grocery,2873.86,32,West
+P156,Data Science,Books,4921.87,346,East
+P157,Tablet,Electronics,5330.73,473,Central
+P158,Sofa,Furniture,7274.54,242,East
+P159,Cloud Basics,Books,3839.11,113,South
+P160,Tablet,Electronics,2944.56,104,Central
+P161,Jacket,Clothing,1947.21,88,South
+P162,Sugar,Grocery,1462.82,485,North
+P163,Bed,Furniture,2926.02,442,West
+P164,Smartwatch,Electronics,1273.06,128,West
+P165,Headphones,Electronics,2885.34,411,Central
+P166,Data Science,Books,3649.8,45,East
+P167,Yoga Mat,Sports,7975.85,355,North
+P168,Dumbbells,Sports,5858.9,89,Central
+P169,T-Shirt,Clothing,5457.43,187,West
+P170,ML Handbook,Books,5000.83,267,East
+P171,Yoga Mat,Sports,191.25,102,North
+P172,Data Science,Books,508.99,91,East
+P173,Tea,Grocery,2233.03,165,East
+P174,Jacket,Clothing,6681.42,46,Central
+P175,Sugar,Grocery,6878.18,103,South
+P176,Yoga Mat,Sports,4962.0,190,North
+P177,Sugar,Grocery,3037.02,21,East
+P178,Dumbbells,Sports,5203.08,415,East
+P179,Table,Furniture,3113.59,296,South
+P180,ML Handbook,Books,7822.63,436,Central
+P181,Chair,Furniture,5341.53,168,North
+P182,Smartwatch,Electronics,3066.25,269,West
+P183,Cricket Bat,Sports,907.08,288,West
+P184,Dumbbells,Sports,3348.4,242,South
+P185,Smartwatch,Electronics,3211.04,69,Central
+P186,Smartphone,Electronics,5936.56,205,Central
+P187,Headphones,Electronics,4453.11,393,West
+P188,Cricket Bat,Sports,765.91,434,North
+P189,Python Guide,Books,858.57,45,South
+P190,SQL Mastery,Books,487.29,348,South
+P191,Oil,Grocery,3888.19,28,Central
+P192,Sugar,Grocery,6756.75,71,West
+P193,Smartphone,Electronics,2597.88,97,Central
+P194,Smartphone,Electronics,7910.01,140,Central
+P195,Chair,Furniture,2538.67,130,East
+P196,SQL Mastery,Books,4112.3,215,North
+P197,Sofa,Furniture,2025.75,194,West
+P198,Data Science,Books,2474.49,67,North
+P199,Kurta,Clothing,5235.41,477,West
+P200,Sugar,Grocery,5693.5,72,East

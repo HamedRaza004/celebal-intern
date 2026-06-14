@@ -1,0 +1,301 @@
+order_id,user_id,product_id,category,product_name,region,status,priority,base_price,amount,order_date
+ORD1001,U1009,P150,Furniture,Table,Central,Completed,Low,9873.16,11731.88,2024-04-02
+ORD1002,U1011,P153,Electronics,Smartwatch,Central,Completed,High,6657.46,7444.51,2024-11-21
+ORD1003,U1006,P173,Books,Python Guide,South,Cancelled,Medium,11717.44,12809.1,2024-03-18
+ORD1003,U1006,P173,Books,Python Guide,South,Cancelled,Medium,11717.44,12809.1,2024-03-18
+ORD1005,U1063,P107,Electronics,Tablet,East,Processing,Low,8196.76,15206.5,2024-08-12
+ORD1006,U1031,P123,Furniture,Table,West,Cancelled,Low,,1719.05,2024-08-10
+ORD1007,U1021,P115,Books,Python Guide,West,Processing,High,9109.98,11879.13,2024-11-03
+ORD1008,U1044,P140,Books,Cloud Basics,West,Completed,High,7173.0,15492.18,2024-05-16
+ORD1009,U1039,P107,Grocery,Rice,West,Cancelled,Low,7800.83,23294.78,2024-07-22
+ORD1010,U1078,P159,Furniture,Chair,East,Pending,Low,1493.44,1669.53,2024-04-13
+ORD1011,U1051,P110,Sports,Dumbbells,West,Cancelled,Low,6638.33,,2024-07-12
+ORD1012,U1022,P129,Grocery,Sugar,North,Processing,Low,1900.45,4403.41,2024-03-09
+ORD1013,U1047,P118,Furniture,Chair,South,Completed,Medium,7356.77,12044.68,2024-11-26
+ORD1014,U1013,P150,Books,SQL Mastery,South,Completed,High,5830.12,10499.38,2024-08-06
+ORD1015,U1000,P176,Electronics,Headphones,East,Completed,High,6844.72,14190.73,2024-04-20
+ORD1016,U1044,P181,Sports,Football,North,Processing,Medium,7267.12,14158.55,2024-08-16
+ORD1017,U1043,P118,Furniture,Chair,South,Completed,High,8910.18,17439.4,2024-09-12
+ORD1018,U1038,P103,Clothing,Kurta,East,Cancelled,High,11744.16,32022.21,2024-06-25
+ORD1019,U1042,P169,Clothing,Kurta,South,Pending,Medium,7673.66,17085.07,2024-12-26
+ORD1020,U1093,P166,Clothing,Jeans,East,Processing,Medium,444.86,469.72,2024-04-23
+ORD1021,U1092,P157,Books,Data Science,East,Completed,High,11857.65,34505.78,2024-02-08
+ORD1022,U1079,P143,Sports,Football,North,Processing,Low,11824.46,26256.5,2024-06-26
+ORD1023,U1049,P184,Grocery,Rice,West,Pending,Medium,9409.4,23526.14,2024-11-11
+ORD1024,U1010,P159,Electronics,Smartwatch,South,Completed,High,8725.1,11691.7,2024-10-15
+ORD1025,U1060,P178,Grocery,Dal,Central,Pending,High,7921.49,13472.99,2024-01-26
+ORD1026,U1017,P167,Grocery,Rice,South,Completed,Medium,5262.33,14437.13,2024-04-10
+ORD1027,U1033,P197,Books,ML Handbook,North,Cancelled,Medium,6577.8,17552.14,2024-11-19
+ORD1028,U1019,P164,Books,SQL Mastery,West,Pending,Low,6329.73,6566.52,2024-01-25
+ORD1029,U1092,P118,Clothing,Jeans,Central,Processing,High,1532.01,1721.23,2024-09-02
+ORD1030,U1012,P135,Clothing,Jeans,North,Processing,Medium,6141.8,13041.86,2024-10-17
+ORD1031,U1057,P125,Books,Cloud Basics,Central,Pending,Low,6147.06,16072.87,2024-09-09
+ORD1032,U1015,P157,Books,ML Handbook,South,Processing,High,4769.14,7783.04,2024-04-22
+ORD1033,U1091,P199,Furniture,Chair,East,Pending,Medium,7757.15,13438.23,2024-04-24
+ORD1034,U1085,P162,Electronics,Smartwatch,West,Processing,Medium,10006.09,13237.38,2024-07-07
+ORD1035,U1002,P111,Furniture,Sofa,North,Processing,Medium,4121.96,7903.21,2024-09-20
+ORD1036,U1029,P108,Furniture,Shelf,East,Cancelled,High,11663.18,14107.31,2024-03-09
+ORD1037,U1033,P186,Clothing,Shoes,Central,Processing,Low,4930.78,10222.48,2024-06-03
+ORD1038,U1009,P188,Furniture,Chair,North,Cancelled,High,3300.19,3411.29,2024-10-28
+ORD1039,U1058,P133,Clothing,T-Shirt,West,Cancelled,Low,237.4,709.5,2024-03-02
+ORD1040,U1033,P114,Books,ML Handbook,East,Cancelled,Low,699.52,981.8,2024-04-10
+ORD1041,U1044,P186,Sports,Cycle,North,Completed,High,9663.78,28885.02,2024-12-17
+ORD1042,U1057,P165,Books,ML Handbook,West,Processing,Low,1364.75,3599.99,2024-07-17
+ORD1043,U1090,P129,Furniture,Table,East,Completed,High,8773.25,11224.83,2024-01-03
+ORD1044,U1010,P155,Grocery,Oil,Central,Cancelled,Low,8016.21,14122.67,2024-04-23
+ORD1045,U1034,P158,Furniture,Chair,East,Cancelled,High,5405.31,8251.13,2024-01-10
+ORD1046,,P123,Clothing,Jacket,Central,Pending,High,4641.36,9047.34,2024-09-25
+ORD1047,U1018,P133,Electronics,Laptop,North,Cancelled,Medium,4854.18,5258.7,2024-11-08
+ORD1048,U1019,P167,Electronics,Tablet,Central,Processing,Medium,7924.77,19272.94,2024-12-16
+ORD1049,U1018,P192,Clothing,Jacket,Central,Processing,Low,621.08,1658.64,2024-12-26
+ORD1050,U1072,P167,Books,ML Handbook,Central,Pending,High,10035.76,26186.86,2024-01-02
+ORD1051,U1057,P113,Clothing,Jacket,Central,Pending,Medium,6746.47,15216.89,2024-05-01
+ORD1052,U1068,P195,Sports,Cricket Bat,West,Cancelled,High,1194.11,2450.29,2024-05-08
+ORD1053,U1058,P129,Grocery,Dal,West,Cancelled,High,5977.99,10551.88,2024-10-21
+ORD1054,U1042,P109,Grocery,Dal,East,Pending,High,3121.89,7762.38,2024-08-02
+ORD1055,U1027,P186,Sports,Yoga Mat,Central,Cancelled,Medium,8140.92,12876.6,2024-08-15
+ORD1056,U1010,P125,Electronics,Tablet,West,Completed,Low,11241.43,11634.98,2024-08-09
+ORD1057,U1011,P126,Sports,Football,East,Pending,Low,1786.71,3659.42,2024-11-17
+ORD1058,U1063,P190,Furniture,Chair,North,Pending,High,10782.7,21266.52,2024-08-22
+ORD1059,U1053,P138,Sports,Dumbbells,East,Completed,Medium,4193.13,6843.84,2024-06-27
+ORD1060,U1094,P125,Sports,Cricket Bat,West,Processing,Low,3549.01,6191.05,2024-02-12
+ORD1061,U1006,P106,Sports,Yoga Mat,South,Pending,Medium,10032.64,15763.75,2024-07-17
+ORD1062,U1054,P198,Furniture,Table,West,Pending,Low,10622.77,27873.35,2024-02-02
+ORD1063,U1017,P157,Grocery,Sugar,North,Pending,High,7769.44,12216.8,2024-08-14
+ORD1064,U1094,P138,Furniture,Sofa,South,Cancelled,Medium,11717.92,17815.2,2024-09-22
+ORD1065,U1009,P121,Sports,Cricket Bat,West,Pending,Medium,2573.68,7236.98,2024-06-25
+ORD1066,U1031,P117,Sports,Dumbbells,North,Cancelled,High,1179.5,1986.17,2024-06-09
+ORD1067,U1052,P102,Books,ML Handbook,South,Processing,Medium,4655.77,11600.69,2024-06-25
+ORD1068,U1046,P135,Electronics,Smartwatch,South,Completed,Medium,1597.9,3206.65,2024-04-13
+ORD1069,U1002,P155,Sports,Dumbbells,West,Processing,High,1614.24,2986.99,2024-02-13
+ORD1070,U1013,P157,Books,SQL Mastery,North,Processing,High,2763.22,3603.62,2024-09-25
+ORD1071,U1004,P116,Electronics,Laptop,South,Cancelled,Low,7781.52,12509.3,2024-11-14
+ORD1072,U1067,P112,Grocery,Rice,East,Pending,Low,11328.13,15671.38,2024-01-01
+ORD1073,U1040,P158,Books,Data Science,West,Pending,Low,7770.45,21505.09,2024-04-01
+ORD1074,,P107,Sports,Yoga Mat,West,Completed,Medium,6029.89,14163.77,2024-04-22
+ORD1075,U1089,P129,Sports,Yoga Mat,West,Pending,High,4122.81,7590.56,2024-05-24
+ORD1076,U1025,P126,Books,Python Guide,South,Processing,High,3809.42,10056.9,2024-05-25
+ORD1077,U1023,P179,Furniture,Chair,North,Pending,Medium,10768.07,21214.23,2024-01-07
+ORD1078,U1090,P118,Electronics,Tablet,East,Completed,High,815.61,1457.2,2024-03-11
+ORD1079,U1095,P183,Clothing,Jeans,West,Cancelled,Medium,5664.63,9197.4,2024-08-06
+ORD1080,U1044,P110,Electronics,Laptop,Central,Pending,Medium,5100.18,14129.26,2024-06-25
+ORD1081,U1060,P111,Furniture,Bed,West,Pending,Medium,2429.02,5059.79,2024-06-24
+ORD1082,U1080,P180,Sports,Cricket Bat,North,Processing,High,9223.35,9973.2,2024-01-09
+ORD1083,U1034,P177,Clothing,T-Shirt,North,Cancelled,Low,4086.15,11880.58,2024-12-23
+ORD1084,,P138,Furniture,Sofa,North,Completed,High,9092.26,25757.64,2024-02-16
+ORD1085,U1032,P199,Grocery,Sugar,South,Processing,High,10971.17,28849.79,2024-01-26
+ORD1086,U1077,P188,Grocery,Oil,West,Cancelled,Low,2910.1,7922.7,2024-02-17
+ORD1087,U1052,P196,Clothing,Shoes,Central,Cancelled,High,870.32,929.26,2024-07-04
+ORD1088,U1012,P179,Electronics,Headphones,West,Pending,High,5110.62,15213.62,2024-03-14
+ORD1089,U1068,P186,Sports,Cycle,North,Cancelled,Medium,10179.15,23705.72,2024-05-19
+ORD1090,U1025,P132,Furniture,Sofa,South,Pending,Medium,5328.83,7308.35,2024-10-07
+ORD1091,U1031,P150,Furniture,Chair,North,Processing,High,6137.16,8977.2,2024-02-01
+ORD1092,U1005,P157,Sports,Football,North,Pending,Low,10534.9,15441.9,2024-10-07
+ORD1093,U1057,P165,Electronics,Headphones,North,Completed,Low,7276.2,18554.28,2024-10-23
+ORD1094,,P127,Books,Data Science,East,Completed,Low,4146.2,4512.45,2024-12-21
+ORD1095,U1047,P141,Clothing,T-Shirt,South,Completed,Medium,2303.23,3741.35,2024-09-16
+ORD1096,U1084,P112,Electronics,Smartwatch,North,Pending,Medium,6646.64,15143.46,2024-12-09
+ORD1097,U1006,P185,Sports,Yoga Mat,East,Processing,Medium,3817.11,8142.05,2024-01-28
+ORD1098,U1026,P150,Furniture,Table,South,Processing,High,11309.65,21130.14,2024-02-13
+ORD1099,U1016,P158,Books,Data Science,West,Completed,Low,276.53,581.57,2024-10-12
+ORD1100,U1036,P121,Grocery,Tea,North,Completed,Medium,2025.6,2721.54,2024-08-25
+ORD1101,U1005,P116,Clothing,Jacket,North,Processing,High,11709.0,23013.72,2024-12-20
+ORD1102,U1028,P181,Grocery,Dal,South,Processing,High,7490.53,16699.82,2024-10-07
+ORD1103,U1045,P166,Electronics,Smartwatch,South,Completed,Low,1564.37,2337.35,2024-11-02
+ORD1104,U1058,P115,Grocery,Oil,East,Processing,Medium,6645.62,14979.79,2024-10-08
+ORD1105,U1064,P184,Sports,Dumbbells,Central,Processing,Medium,5316.4,5564.94,2024-04-15
+ORD1106,U1051,P122,Books,SQL Mastery,West,Cancelled,High,1374.21,1727.26,2024-08-17
+ORD1107,U1010,P105,Books,Python Guide,Central,Completed,High,11073.3,18021.26,2024-09-13
+ORD1108,U1078,P103,Grocery,Dal,South,Pending,Medium,8811.8,23174.85,2024-05-26
+ORD1109,U1078,P108,Clothing,Jeans,Central,Cancelled,Medium,9098.54,11987.64,2024-03-09
+ORD1110,U1078,P126,Books,SQL Mastery,North,Pending,High,6121.48,10027.93,2024-07-06
+ORD1111,U1048,P186,Grocery,Oil,North,Completed,Low,2108.03,5417.09,2024-06-28
+ORD1112,U1013,P166,Sports,Cycle,West,Cancelled,Medium,3099.18,6419.65,2024-07-12
+ORD1113,U1010,P146,Books,ML Handbook,North,Cancelled,Low,5363.15,7259.09,2024-05-10
+ORD1114,U1093,P184,Grocery,Tea,South,Cancelled,Low,121.31,129.51,2024-11-14
+ORD1115,U1016,P146,Sports,Cycle,North,Completed,High,5911.89,13154.19,2024-01-19
+ORD1116,U1068,P113,Furniture,Sofa,Central,Pending,High,2768.68,6000.23,2024-06-20
+ORD1117,,P117,Sports,Football,West,Completed,High,9637.88,23274.95,2024-11-05
+ORD1118,U1001,P151,Grocery,Oil,East,Processing,Low,767.95,2028.74,2024-09-24
+ORD1119,U1005,P121,Sports,Football,South,Pending,High,832.19,874.17,2024-01-25
+ORD1120,U1025,P178,Electronics,Laptop,Central,Processing,Low,1792.97,2508.43,2024-03-17
+ORD1121,U1092,P138,Furniture,Chair,North,Processing,Medium,9417.39,22891.77,2024-12-15
+ORD1122,U1013,P122,Electronics,Smartwatch,North,Cancelled,Low,3210.98,7346.85,2024-12-28
+ORD1123,U1086,P134,Furniture,Chair,Central,Cancelled,Medium,5289.03,13629.3,2024-11-07
+ORD1124,U1030,P101,Electronics,Tablet,South,Cancelled,High,10116.5,14219.27,2024-07-11
+ORD1125,U1080,P148,Books,ML Handbook,Central,Processing,Medium,11067.97,32797.95,2024-09-23
+ORD1126,U1029,P155,Electronics,Laptop,South,Processing,Low,6887.05,11126.04,2024-10-03
+ORD1127,,P118,Books,ML Handbook,South,Cancelled,High,1431.53,3212.27,2024-12-01
+ORD1128,U1081,P117,Electronics,Laptop,North,Completed,Low,607.49,689.9,2024-06-07
+ORD1129,U1049,P196,Books,Python Guide,North,Completed,High,1374.68,1940.29,2024-11-03
+ORD1130,U1012,P161,Grocery,Oil,East,Cancelled,Medium,9524.41,21836.05,2024-07-09
+ORD1131,U1006,P132,Electronics,Headphones,East,Processing,Medium,8617.57,14960.52,2024-10-24
+ORD1132,U1098,P103,Electronics,Smartwatch,North,Pending,Low,1269.76,2460.65,2024-02-19
+ORD1133,,P155,Furniture,Table,North,Completed,Medium,2504.22,6321.56,2024-08-04
+ORD1134,U1065,P163,Sports,Football,East,Pending,Low,3200.84,9243.19,2024-04-16
+ORD1135,U1062,P181,Clothing,T-Shirt,North,Cancelled,Medium,9476.18,22688.98,2024-02-13
+ORD1136,U1003,P154,Sports,Cricket Bat,West,Pending,Medium,4526.2,7270.35,2024-11-08
+ORD1137,U1088,P168,Sports,Football,East,Cancelled,Low,9060.57,20772.26,2024-03-28
+ORD1138,U1059,P194,Sports,Cycle,Central,Pending,High,5321.7,13553.68,2024-06-15
+ORD1139,U1038,P164,Grocery,Dal,Central,Pending,Low,9081.35,24093.26,2024-03-08
+ORD1140,U1020,P177,Grocery,Oil,East,Completed,High,2910.94,8475.45,2024-11-04
+ORD1141,U1038,P119,Clothing,Shoes,South,Completed,Low,8826.18,16503.6,2024-02-09
+ORD1142,,P159,Clothing,Shoes,South,Cancelled,Medium,4848.35,12518.48,2024-01-05
+ORD1143,U1094,P194,Furniture,Shelf,Central,Processing,High,2983.18,8071.84,2024-11-24
+ORD1144,U1082,P129,Grocery,Tea,East,Completed,Medium,1578.16,2943.36,2024-04-26
+ORD1145,U1061,P132,Sports,Football,West,Pending,Low,5516.81,12374.96,2024-06-25
+ORD1146,U1013,P162,Electronics,Smartwatch,South,Pending,Low,553.93,1155.9,2024-06-04
+ORD1147,U1060,P169,Books,SQL Mastery,East,Cancelled,Medium,6195.07,14115.61,2024-12-15
+ORD1148,U1015,P150,Clothing,Jeans,North,Cancelled,Medium,8776.37,19553.79,2024-07-13
+ORD1149,U1053,P109,Electronics,Laptop,Central,Cancelled,High,7579.92,17811.06,2024-04-10
+ORD1150,U1050,P167,Grocery,Sugar,North,Pending,Medium,5599.19,7441.7,2024-11-18
+ORD1151,U1081,P118,Grocery,Dal,West,Processing,Medium,9985.32,25867.11,2024-09-21
+ORD1152,U1029,P145,Clothing,Shoes,East,Processing,Low,3282.35,5751.65,2024-03-16
+ORD1153,U1038,P145,Electronics,Headphones,Central,Completed,Low,3911.81,7705.63,2024-06-05
+ORD1154,U1072,P107,Furniture,Bed,South,Cancelled,Low,10879.09,27938.34,2024-10-01
+ORD1155,U1083,P126,Grocery,Rice,Central,Pending,High,3586.61,7949.37,2024-03-25
+ORD1156,U1051,P119,Sports,Yoga Mat,Central,Completed,Low,9520.92,12718.29,2024-09-26
+ORD1157,U1027,P125,Grocery,Oil,West,Completed,Low,6416.47,15937.38,2024-02-09
+ORD1158,U1071,P117,Sports,Football,South,Processing,High,795.61,1538.86,2024-08-06
+ORD1159,,P194,Books,Cloud Basics,Central,Processing,Low,10105.13,19562.73,2024-05-27
+ORD1160,U1086,P154,Sports,Yoga Mat,North,Completed,Low,997.22,2267.76,2024-01-22
+ORD1161,U1062,P112,Grocery,Oil,South,Processing,Low,9110.34,11743.03,2024-03-11
+ORD1162,U1067,P143,Electronics,Headphones,East,Processing,Medium,6694.09,18908.56,2024-07-09
+ORD1163,U1063,P137,Books,Python Guide,East,Cancelled,High,4904.38,9845.53,2024-11-16
+ORD1164,U1038,P124,Electronics,Headphones,North,Completed,Medium,1618.09,4766.08,2024-12-18
+ORD1165,U1038,P173,Sports,Cycle,West,Completed,Low,1391.16,1520.25,2024-09-20
+ORD1166,U1089,P118,Sports,Cycle,North,Pending,High,8300.59,22848.57,2024-11-21
+ORD1167,U1004,P112,Sports,Football,North,Cancelled,High,5116.7,6146.24,2024-05-18
+ORD1168,U1004,P138,Grocery,Oil,Central,Completed,Medium,3889.88,7240.43,2024-10-17
+ORD1169,U1073,P199,Electronics,Laptop,North,Completed,Low,8378.97,15160.04,2024-07-20
+ORD1170,U1070,P160,Books,ML Handbook,South,Pending,Low,1314.31,3008.47,2024-01-14
+ORD1171,U1011,P187,Electronics,Laptop,West,Completed,Medium,2697.12,3351.7,2024-12-19
+ORD1172,U1006,P193,Clothing,Shoes,South,Completed,Medium,4453.9,11110.18,2024-11-18
+ORD1173,U1032,P158,Grocery,Sugar,North,Completed,High,10970.9,12126.37,2024-01-21
+ORD1174,U1039,P110,Grocery,Tea,West,Completed,Medium,8780.36,11695.39,2024-06-19
+ORD1175,U1018,P160,Grocery,Sugar,South,Processing,Medium,11599.63,14307.11,2024-07-25
+ORD1176,U1037,P196,Sports,Yoga Mat,Central,Cancelled,Low,3430.89,7697.87,2024-12-01
+ORD1177,U1031,P139,Clothing,Kurta,Central,Pending,Medium,4582.45,10858.77,2024-05-23
+ORD1178,U1020,P133,Electronics,Headphones,North,Cancelled,High,7081.05,18637.13,2024-10-05
+ORD1179,U1063,P187,Furniture,Shelf,Central,Processing,Medium,4227.55,4946.77,2024-04-26
+ORD1180,U1086,P139,Grocery,Dal,East,Completed,Medium,4806.4,11615.52,2024-08-18
+ORD1181,U1029,P145,Electronics,Tablet,East,Cancelled,Medium,4838.42,9880.44,2024-09-19
+ORD1182,U1023,P127,Clothing,Jeans,Central,Cancelled,Medium,9689.79,15305.92,2024-09-28
+ORD1183,U1063,P105,Clothing,Jeans,West,Completed,High,4551.08,5516.99,2024-06-20
+ORD1184,U1002,P135,Electronics,Headphones,Central,Processing,Low,1219.61,1718.78,2024-10-07
+ORD1185,U1057,P154,Furniture,Sofa,South,Cancelled,High,9230.26,24346.3,2024-06-07
+ORD1186,,P110,Clothing,Shoes,West,Processing,High,514.24,894.4,2024-10-21
+ORD1187,U1032,P190,Sports,Cricket Bat,North,Processing,High,3892.66,5708.26,2024-08-28
+ORD1188,U1028,P130,Clothing,Jacket,East,Completed,Low,2148.28,6194.41,2024-01-27
+ORD1189,U1082,P165,Electronics,Headphones,North,Pending,Medium,9163.63,18023.49,2024-01-07
+ORD1190,U1097,P175,Grocery,Oil,East,Cancelled,Medium,7864.93,15269.37,2024-02-12
+ORD1191,U1018,P121,Sports,Dumbbells,West,Pending,High,10980.15,30572.47,2024-03-27
+ORD1192,U1095,P179,Clothing,T-Shirt,North,Processing,High,1763.18,3340.33,2024-11-03
+ORD1193,U1061,P141,Sports,Yoga Mat,East,Pending,Low,1475.76,2556.11,2024-01-06
+ORD1194,U1056,P170,Grocery,Sugar,West,Pending,High,10461.61,16035.49,2024-01-09
+ORD1195,U1033,P142,Books,Data Science,West,Completed,High,5942.98,9723.51,2024-09-02
+ORD1196,U1036,P171,Grocery,Dal,East,Processing,Medium,1518.35,3810.61,2024-04-08
+ORD1197,U1020,P137,Electronics,Smartwatch,East,Pending,Low,784.04,1923.21,2024-01-15
+ORD1198,U1000,P165,Books,Data Science,East,Pending,Medium,9495.82,27417.21,2024-07-02
+ORD1199,U1017,P135,Sports,Football,South,Pending,High,10136.12,20711.19,2024-10-03
+ORD1200,U1035,P193,Electronics,Tablet,South,Cancelled,High,2186.28,2785.5,2024-01-03
+ORD1201,U1007,P152,Grocery,Tea,East,Processing,High,6269.66,10628.85,2024-01-14
+ORD1202,U1023,P185,Sports,Football,North,Pending,Low,6801.22,20209.33,2024-06-19
+ORD1203,U1057,P145,Books,Python Guide,East,Pending,Medium,11627.95,13287.07,2024-12-28
+ORD1204,U1037,P196,Sports,Cycle,West,Processing,Low,10486.36,30495.43,2024-01-17
+ORD1205,U1011,P102,Books,ML Handbook,North,Cancelled,Medium,2762.02,3769.57,2024-09-27
+ORD1206,U1094,P112,Electronics,Laptop,Central,Processing,Low,2421.51,2507.17,2024-04-23
+ORD1207,U1091,P144,Sports,Cricket Bat,West,Processing,Low,2229.76,3447.27,2024-09-25
+ORD1208,U1017,P115,Furniture,Chair,South,Pending,Low,6545.01,9522.11,2024-10-15
+ORD1209,U1002,P121,Grocery,Sugar,West,Completed,Medium,11257.21,20009.57,2024-01-25
+ORD1210,U1042,P151,Furniture,Sofa,Central,Cancelled,Medium,8614.79,23139.78,2024-09-02
+ORD1211,U1045,P118,Furniture,Shelf,North,Cancelled,High,3066.48,5655.42,2024-09-06
+ORD1212,U1085,P155,Electronics,Headphones,West,Processing,Low,347.85,444.84,2024-01-26
+ORD1213,U1086,P182,Electronics,Laptop,North,Completed,Medium,7519.3,16967.29,2024-02-17
+ORD1214,U1036,P130,Electronics,Smartwatch,South,Completed,High,1445.22,2449.8,2024-10-17
+ORD1215,U1018,P159,Furniture,Chair,East,Processing,Low,5335.73,10795.6,2024-05-09
+ORD1216,U1058,P194,Clothing,T-Shirt,West,Pending,Low,7358.44,15749.7,2024-12-12
+ORD1217,U1060,P138,Sports,Cycle,East,Pending,High,9843.95,10453.53,2024-09-18
+ORD1218,,P150,Sports,Cycle,South,Cancelled,Low,4296.57,11702.7,2024-06-16
+ORD1219,U1098,P127,Furniture,Sofa,Central,Cancelled,Medium,359.25,755.24,2024-11-02
+ORD1220,U1097,P156,Books,SQL Mastery,South,Processing,Medium,1400.01,2030.48,2024-11-12
+ORD1221,U1035,P178,Clothing,Jeans,West,Cancelled,Low,9872.2,20095.23,2024-12-21
+ORD1222,U1000,P152,Grocery,Dal,North,Processing,Medium,4983.97,10465.8,2024-10-05
+ORD1223,U1048,P179,Sports,Yoga Mat,East,Cancelled,Medium,10235.06,24413.55,2024-06-13
+ORD1224,U1041,P176,Books,Cloud Basics,West,Processing,Medium,180.47,449.65,2024-05-06
+ORD1225,U1048,P118,Books,Data Science,East,Cancelled,Low,7020.83,8255.51,2024-04-11
+ORD1226,,P101,Clothing,Shoes,East,Cancelled,Low,3152.93,8802.3,2024-10-14
+ORD1227,U1049,P193,Books,Cloud Basics,East,Processing,High,5624.56,6082.53,2024-11-03
+ORD1228,U1064,P112,Books,ML Handbook,Central,Pending,High,4870.63,10338.78,2024-07-16
+ORD1229,U1075,P198,Sports,Dumbbells,North,Pending,Medium,4185.03,8622.32,2024-06-12
+ORD1230,U1083,P165,Electronics,Headphones,Central,Processing,Low,10744.68,25569.91,2024-03-17
+ORD1231,U1024,P126,Furniture,Shelf,Central,Completed,Medium,5005.89,5608.3,2024-10-21
+ORD1232,U1000,P188,Grocery,Rice,North,Cancelled,Medium,3750.21,8930.73,2024-02-19
+ORD1233,U1098,P125,Electronics,Laptop,Central,Pending,Low,6683.67,10239.63,2024-04-14
+ORD1234,U1097,P118,Books,Python Guide,North,Pending,Low,6162.91,6520.78,2024-08-27
+ORD1235,U1007,P155,Sports,Cycle,Central,Cancelled,High,7836.19,18564.95,2024-12-08
+ORD1236,,P121,Furniture,Sofa,Central,Completed,Medium,7581.51,20611.51,2024-04-15
+ORD1237,U1050,P102,Books,SQL Mastery,West,Completed,Low,7033.68,20532.9,2024-04-08
+ORD1238,U1022,P120,Clothing,T-Shirt,West,Cancelled,Medium,3846.04,10760.2,2024-10-09
+ORD1239,U1086,P131,Sports,Cricket Bat,East,Processing,Low,8649.74,12479.82,2024-08-01
+ORD1240,U1048,P122,Clothing,T-Shirt,East,Processing,Low,2319.98,6827.92,2024-06-04
+ORD1241,U1083,P149,Furniture,Shelf,East,Pending,Medium,878.82,1095.52,2024-04-15
+ORD1242,U1035,P130,Furniture,Sofa,South,Pending,Low,8004.87,13470.93,2024-03-03
+ORD1243,U1016,P169,Clothing,Jacket,South,Pending,Medium,6704.21,12966.65,2024-06-07
+ORD1244,U1074,P148,Grocery,Sugar,Central,Pending,High,2575.9,7474.95,2024-08-22
+ORD1245,U1075,P176,Clothing,Jacket,West,Pending,High,11880.68,24584.95,2024-02-22
+ORD1246,U1094,P169,Books,Python Guide,Central,Pending,Medium,9283.76,16428.87,2024-01-13
+ORD1247,U1029,P188,Grocery,Rice,North,Completed,Low,3920.34,9116.74,2024-06-26
+ORD1248,U1039,P124,Books,Data Science,West,Cancelled,Medium,1146.49,1808.17,2024-07-28
+ORD1249,U1046,P135,Sports,Football,East,Processing,High,8187.53,19054.19,2024-11-23
+ORD1250,U1051,P131,Grocery,Sugar,South,Cancelled,High,4290.15,9685.68,2024-05-20
+ORD1251,U1051,P191,Grocery,Dal,South,Cancelled,High,575.98,762.61,2024-07-24
+ORD1252,U1022,P139,Electronics,Tablet,West,Cancelled,Medium,6818.14,9922.51,2024-11-22
+ORD1253,U1097,P100,Books,Data Science,North,Completed,High,9340.03,14688.79,2024-11-04
+ORD1254,U1044,P126,Electronics,Headphones,West,Pending,Medium,9019.35,10573.15,2024-09-03
+ORD1255,U1088,P156,Furniture,Bed,West,Completed,Low,6086.59,14466.78,2024-12-07
+ORD1256,U1097,P199,Sports,Cycle,Central,Cancelled,High,2352.62,6833.42,2024-09-06
+ORD1257,U1007,P169,Grocery,Dal,North,Pending,Low,2099.81,3558.04,2024-05-05
+ORD1258,U1090,P185,Clothing,Shoes,West,Pending,Low,2976.37,6044.3,2024-06-23
+ORD1259,U1072,P190,Furniture,Table,North,Processing,High,2965.17,6697.74,2024-11-22
+ORD1260,U1051,P159,Clothing,Kurta,East,Completed,Medium,9990.93,12278.42,2024-08-07
+ORD1261,U1014,P135,Electronics,Laptop,North,Pending,Medium,8449.32,16020.22,2024-08-15
+ORD1262,U1009,P137,Books,Data Science,West,Completed,Low,642.4,1244.34,2024-12-11
+ORD1263,U1062,P133,Grocery,Tea,Central,Cancelled,High,11485.12,22702.48,2024-06-03
+ORD1264,U1093,P180,Grocery,Oil,South,Completed,High,7865.99,11821.2,2024-12-01
+ORD1265,U1023,P118,Electronics,Smartwatch,South,Completed,Low,11548.07,23683.62,2024-05-24
+ORD1266,U1045,P148,Books,Data Science,Central,Cancelled,Medium,3909.85,6791.61,2024-04-02
+ORD1267,U1090,P172,Electronics,Laptop,South,Processing,Medium,4898.35,5393.54,2024-08-24
+ORD1268,U1010,P177,Clothing,Jacket,South,Processing,Low,1788.46,2602.21,2024-07-03
+ORD1269,U1092,P161,Electronics,Smartwatch,Central,Processing,High,4532.62,4822.9,2024-05-03
+ORD1270,U1043,P165,Grocery,Rice,South,Pending,Medium,846.34,861.23,2024-05-01
+ORD1271,U1025,P186,Sports,Cycle,Central,Processing,Medium,5679.17,11843.59,2024-09-21
+ORD1272,U1007,P177,Clothing,Shoes,East,Processing,Medium,8700.94,14470.39,2024-08-22
+ORD1273,U1067,P138,Grocery,Dal,South,Pending,Low,10632.74,11224.81,2024-12-15
+ORD1274,U1047,P118,Grocery,Rice,East,Pending,Low,6703.04,19347.36,2024-08-13
+ORD1275,U1025,P129,Furniture,Chair,East,Completed,High,6622.55,8109.6,2024-09-22
+ORD1276,U1028,P129,Furniture,Bed,Central,Completed,Medium,6540.6,15654.58,2024-11-03
+ORD1277,U1091,P164,Sports,Football,Central,Completed,Medium,10078.73,29189.81,2024-11-13
+ORD1278,U1099,P124,Books,ML Handbook,Central,Completed,Medium,1208.07,2110.17,2024-04-02
+ORD1279,U1027,P101,Furniture,Chair,South,Processing,High,5570.5,6913.41,2024-10-28
+ORD1280,U1045,P114,Clothing,Kurta,East,Completed,Medium,2099.26,5228.98,2024-02-08
+ORD1281,U1045,P194,Furniture,Shelf,Central,Cancelled,High,8689.17,9445.19,2024-06-18
+ORD1282,,P114,Furniture,Shelf,East,Pending,Low,10931.72,16232.51,2024-08-01
+ORD1283,U1062,P114,Books,SQL Mastery,South,Pending,Low,1413.96,3678.26,2024-05-28
+ORD1284,U1032,P118,Grocery,Sugar,East,Processing,High,6507.36,15481.27,2024-01-11
+ORD1285,U1004,P164,Clothing,Shoes,South,Processing,Medium,9625.41,10308.02,2024-03-23
+ORD1286,U1078,P129,Sports,Dumbbells,Central,Pending,Medium,6252.27,10765.56,2024-03-19
+ORD1287,U1046,P127,Books,Python Guide,West,Processing,Medium,8754.22,14555.98,2024-06-01
+ORD1288,U1002,P161,Furniture,Shelf,Central,Completed,Low,3060.01,8422.85,2024-03-24
+ORD1289,U1008,P134,Grocery,Dal,Central,Pending,Low,6050.02,9221.05,2024-01-18
+ORD1290,U1073,P199,Electronics,Smartphone,East,Pending,High,7652.02,13206.02,2024-11-03
+ORD1291,U1081,P194,Furniture,Sofa,West,Cancelled,High,3017.91,8286.35,2024-12-11
+ORD1292,U1031,P161,Grocery,Oil,South,Pending,High,9729.69,29123.55,2024-01-28
+ORD1293,U1072,P151,Grocery,Sugar,Central,Completed,High,9290.94,26562.42,2024-05-24
+ORD1294,U1084,P193,Furniture,Sofa,South,Completed,Low,11255.41,18919.61,2024-03-10
+ORD1295,U1099,P159,Books,Data Science,North,Processing,Medium,8314.34,20307.03,2024-03-09
+ORD1296,U1080,P102,Furniture,Shelf,South,Completed,Medium,3289.81,7924.46,2024-08-07
+ORD1297,U1025,P164,Books,Data Science,South,Completed,High,2976.65,3314.8,2024-02-26
+ORD1298,U1024,P192,Books,Data Science,North,Cancelled,High,3320.53,7587.32,2024-04-11
+ORD1299,U1078,P183,Furniture,Chair,North,Processing,High,8179.67,13705.44,2024-02-21
+ORD1300,U1076,P199,Books,Data Science,North,Completed,Medium,4854.73,13983.94,2024-10-21
