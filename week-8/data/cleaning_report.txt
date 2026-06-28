@@ -1,0 +1,76 @@
+DATA CLEANING REPORT
+============================================================
+
+Generated: 2026-06-28 13:06:42
+
+STATISTICS
+----------------------------------------
+
+[ORDERS]
+  total: 600
+  null_customer_ids: 23
+  dates_fixed: 28
+  dates_failed: 0
+
+[PRODUCTS]
+  total: 200
+  names_normalized: 16
+
+[CUSTOMERS]
+  total: 500
+  invalid_emails: 7
+
+[ORDER_ITEMS]
+  total_items: 1478
+  orphan_items: 0
+  valid_items: 1478
+
+
+ISSUES FOUND
+----------------------------------------
+  [orders] NULL customer_id for order O00029
+  [orders] NULL customer_id for order O00055
+  [orders] NULL customer_id for order O00118
+  [orders] NULL customer_id for order O00124
+  [orders] NULL customer_id for order O00133
+  [orders] NULL customer_id for order O00205
+  [orders] NULL customer_id for order O00222
+  [orders] NULL customer_id for order O00232
+  [orders] NULL customer_id for order O00234
+  [orders] NULL customer_id for order O00239
+  [orders] NULL customer_id for order O00278
+  [orders] NULL customer_id for order O00365
+  [orders] NULL customer_id for order O00381
+  [orders] NULL customer_id for order O00398
+  [orders] NULL customer_id for order O00414
+  [orders] NULL customer_id for order O00433
+  [orders] NULL customer_id for order O00520
+  [orders] NULL customer_id for order O00526
+  [orders] NULL customer_id for order O00530
+  [orders] NULL customer_id for order O00560
+  [orders] NULL customer_id for order O00575
+  [orders] NULL customer_id for order O00579
+  [orders] NULL customer_id for order O00586
+  [products] Normalized name 'Deluxe  Camera  970' -> 'Deluxe Camera 970' for P0012
+  [products] Normalized name 'Ultra  Frame  888' -> 'Ultra Frame 888' for P0030
+  [products] Normalized name 'elite collection 225' -> 'Elite Collection 225' for P0063
+  [products] Normalized name 'ADVANCED JEANS 705' -> 'Advanced Jeans 705' for P0073
+  [products] Normalized name 'Smart Masterclass 562' -> 'Smart Masterclass 562' for P0087
+  [products] Normalized name 'ULTRA TABLET 260' -> 'Ultra Tablet 260' for P0090
+  [products] Normalized name 'Smart Volume 406' -> 'Smart Volume 406' for P0099
+  [products] Normalized name 'DELUXE HOODIE 481' -> 'Deluxe Hoodie 481' for P0108
+  [products] Normalized name 'Classic Hoodie 271' -> 'Classic Hoodie 271' for P0139
+  [products] Normalized name 'Deluxe Collection 340' -> 'Deluxe Collection 340' for P0149
+  [products] Normalized name 'Premium Hoodie 575' -> 'Premium Hoodie 575' for P0151
+  [products] Normalized name 'Elite  Edition  522' -> 'Elite Edition 522' for P0165
+  [products] Normalized name 'PREMIUM DRESS 959' -> 'Premium Dress 959' for P0181
+  [products] Normalized name 'Smart  Shelf  633' -> 'Smart Shelf 633' for P0191
+  [products] Normalized name 'Advanced Frame 598' -> 'Advanced Frame 598' for P0195
+  [products] Normalized name 'Ultra Phone 741' -> 'Ultra Phone 741' for P0196
+  [customers] Invalid email 'ishaan.jones324gmail.com' for customer C0052
+  [customers] Invalid email 'harry.nair627@' for customer C0055
+  [customers] Invalid email 'priya.singh808rediffmail.com' for customer C0209
+  [customers] Invalid email 'harry.garcia103yahoo.com' for customer C0370
+  [customers] Invalid email 'isabella.nair898gmail.com' for customer C0375
+  [customers] Invalid email 'ishaan.wilson741@' for customer C0383
+  [customers] Invalid email 'shruti.davis422@' for customer C0435
